@@ -1,2 +1,3 @@
 # Currency-Convertor
 💸A fast and accurate currency convertor with real-time exchange rates and a clean UI.
+Convert 💰 currencies instantly with live rates_ simple, smart and responsive.
